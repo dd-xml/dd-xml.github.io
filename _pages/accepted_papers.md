@@ -2,7 +2,7 @@
 layout: page
 permalink: /accepted-papers/
 title: Accepted Papers
-description: Papers accepted to the ICLR 2025 SCSL Workshop
+description: Papers accepted to the CRV 2025 DD-XML Workshop
 nav: true
 nav_order: 4
 ---
