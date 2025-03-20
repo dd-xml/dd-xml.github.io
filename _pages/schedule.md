@@ -6,7 +6,7 @@ description:
 nav: true
 nav_order: 2
 ---
-**TBD**
+To be conducted on May 26 2025, full details to be released soon.
 
 <!-- Please submit questions for our panelists <a href="https://docs.google.com/forms/d/e/1FAIpQLSenmiDfMDOTwh5YZTLcAl8_i9JHtgquENu96XVL5WsCpt7NPQ/viewform?usp=header">here</a>.
 

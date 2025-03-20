@@ -11,18 +11,18 @@ nav_order: 3
 
 Machine learning models have demonstrated remarkable success across various domains, yet their decision-making processes often remain opaque. This black-box nature limits their adoption in critical applications, including healthcare, finance, and autonomous systems. In sequential decision-making, where models interact with dynamic environments over time, the challenges of interpretability are further amplified. Understanding the internal mechanisms of these models is crucial for ensuring their reliability, fairness, and alignment with human values.
 
-The "Decoding Decisions" workshop aims to advance the field of explainability in machine learning and sequential decision-making by bringing together researchers from diverse backgrounds. We seek to explore novel methodologies for interpreting decisions, evaluating the impact of explanations, and fostering trust in AI-driven decision-making systems. The workshop will focus on three primary objectives: (i) developing theoretical and empirical approaches to improve explainability in sequential decision-making, (ii) introducing new benchmarks and evaluation protocols for assessing the interpretability of AI systems, and (iii) analyzing the societal and ethical implications of explainable decision-making.
+The "Decoding Decisions" workshop aims to advance the field of explainability in machine learning and sequential decision-making by bringing together researchers from diverse backgrounds. We seek to explore methodologies for interpreting decisions, evaluating the impact of explanations, and fostering trust in artificial decision-making systems. The workshop will focus on three primary objectives: (i) developing theoretical and empirical approaches to improve explainability in machine learning and sequential decision-making, (ii) introducing new benchmarks and evaluation protocols for assessing the interpretability of machine learning systems, and (iii) analyzing the societal and ethical implications of explainable decision-making.
 
 ## Objectives
 
-While significant progress has been made in explaining predictions from supervised models, the interpretability of sequential decision-making systems remains an open challenge. Most current explainability methods rely on post-hoc interpretations, which may not faithfully represent the underlying model behavior. Additionally, explainability frameworks often focus on static settings, failing to capture the complexities of dynamic and multi-step decision processes.
+While significant progress has been made in explaining predictions from supervised machine learning models, many challenges remain in achieving truly transparent and interpretable systems. Most current explainability methods rely on post-hoc interpretations, which may not faithfully represent the underlying model behavior. Additionally, existing frameworks often focus on static settings, failing to capture the complexities of both machine learning models and multi-step decision processes. The need for more robust, generalizable, and actionable explainability methods is critical as machine learning and sequential decision-making systems are increasingly deployed in real-world applications.
 
 This workshop aims to address these gaps by:
 
-1. Developing novel interpretability techniques tailored for reinforcement learning, planning, and decision-making under uncertainty.
-2. Investigating causal explanations that provide insights into why models take specific actions rather than simply describing their decisions.
-3. Examining human-centric explanations that align with cognitive models of decision-making to improve AI-human collaboration.
-4. Evaluating the impact of explanations on user trust, usability, and ethical considerations in real-world applications.
+1. Developing interpretability techniques tailored for machine learning models, reinforcement learning, planning, and decision-making under uncertainty.
+2. Investigating causal explanations that provide insights into why models make specific predictions or take particular actions rather than simply describing their outputs.
+3. Examining human-centric explanations that align with cognitive models of decision-making to improve AI-human collaboration across different learning and decision frameworks.
+4. Evaluating the impact of explanations on user trust, usability, and ethical considerations in real-world machine learning applications and decision-making systems.
 
 ## Topics
 
@@ -52,16 +52,18 @@ We invite submissions that explore various aspects of explainability in machine 
 
 ## Important Dates
 
-* **Submission Deadline**: TBD, 11:59 PM (AoE)  
-* **Acceptance Notification**: TBD
-* **Camera-Ready Deadline**: TBD, 23:59 PM (AoE)  
+* **Submission Deadline**: 6th May, 2025, 11:59 PM (AoE)  
+* **Acceptance Notification**: 14th May, 2025
+* **Camera-Ready Deadline**: 18th May, 2025, 11:59 PM (AoE)  
 
 ## Camera-Ready Instructions
 
-TBD
+To be annouced soon.
 
 ## Submission Details
-TBD
+We invite researchers and practitioners to submit a one-page abstract (excluding references) related to the topics outlined above. Submissions should clearly articulate the research problem, methodology, key findings (if applicable), and relevance to explainability in machine learning and sequential decision-making. Template for submitting abstracts is [template](https://www.overleaf.com/read/nkncsmbynzgq#287f38).
+
+Please send your submissions to explainableml2025@gmail.com by the submission deadline. Accepted abstracts will be presented as either oral talks or posters, depending on the review process. For any inquiries, feel free to contact the organizers at the same email address.
 
 ## Questions
 
