@@ -1,4 +1,4 @@
----
+<!-- ---
 layout: page
 permalink: /accepted-papers/
 title: Accepted Papers
@@ -109,4 +109,4 @@ nav_order: 4
     margin: 0;
     display: none;
   }
-</style> 
+</style>  -->
