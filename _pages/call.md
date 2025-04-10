@@ -63,6 +63,8 @@ To be annouced soon.
 ## Submission Details
 We invite researchers and practitioners to submit a one-page abstract (excluding references) related to the topics outlined above. Submissions should clearly articulate the research problem, methodology, key findings (if applicable), and relevance to explainability in machine learning and sequential decision-making. Template for submitting abstracts is [template](https://www.overleaf.com/read/nkncsmbynzgq#287f38).
 
+Please send you submissions to [explainableml2025@gmail.com](mailto:explainableml2025@gmail.com).
+
 ## Questions
 
 For any inquiries, please contact us at [explainableml2025@gmail.com](mailto:explainableml2025@gmail.com).
