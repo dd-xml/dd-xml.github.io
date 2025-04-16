@@ -61,7 +61,7 @@ We invite submissions that explore various aspects of explainability in machine 
 To be annouced soon.
 
 ## Submission Details
-We invite researchers and practitioners to submit a one-page abstract (excluding references) related to the topics outlined above. Submissions should clearly articulate the research problem, methodology, key findings (if applicable), and relevance to explainability in machine learning and sequential decision-making. Template for submitting abstracts is [template](https://www.overleaf.com/read/nkncsmbynzgq#287f38).
+We invite researchers to submit a one-page abstract (excluding references) related to the workshop themes. Submissions should briefly outline the research problem, approach, and any key insights or preliminary results, with a clear emphasis on relevance to explainability in machine learning and sequential decision-making. Template for submitting abstracts is: [template](https://www.overleaf.com/read/nkncsmbynzgq#287f38).
 
 Please make your submissions on [OpenReview](https://openreview.net/group?id=computerrobotvision.org/CRV/2025/Workshop/DD-XML).
 ## Questions
