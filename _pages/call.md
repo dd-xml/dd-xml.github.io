@@ -52,9 +52,9 @@ We invite submissions that explore various aspects of explainability in machine 
 
 ## Important Dates
 
-* **Submission Deadline**: 6th May, 2025, 11:59 PM (AoE)  
-* **Acceptance Notification**: 14th May, 2025
-* **Camera-Ready Deadline**: 18th May, 2025, 11:59 PM (AoE)  
+* **Submission Deadline**: 14th May, 2025, 11:59 PM (AoE)  
+* **Acceptance Notification**: 18th May, 2025
+* **Camera-Ready Deadline**: 22th May, 2025, 11:59 PM (AoE)  
 
 ## Camera-Ready Instructions
 
