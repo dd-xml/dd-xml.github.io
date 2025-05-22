@@ -21,7 +21,7 @@ nav_order: 2
 | 14:45-16:00 | 3 Presentations (20 min each) | | | |
 | 14:45-15:10 | Presentation 1 | Deep learning for detecting prenatal alcohol exposure in pediatric brain MRI: a transfer learning approach with explainability insights | Anik Das | |
 | 15:10-15:35 | Presentation 2 | SAGE: Sequential Agent Goal Execution Protocol for Multi-LLM Workflow Management | Muhammad Saim | |
-| 15:35-16:00 | Presentation 3 | | Dr. Svetlana's student | |
+| 15:35-16:00 | Presentation 3 | | Philip Ciunkiewicz | -- |
 | 16:00-16:30 | Panel / Open Discussion / Wrap-Up/networking | Continue or wrap up presentations. Summary, future steps, thank speakers & participants | | |
 
 <!-- <br> -->
